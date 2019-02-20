@@ -10,3 +10,6 @@ https://www.cnblogs.com/digdeep/p/4512368.html
 https://blog.csdn.net/qq_37061442/article/details/82350258
 #### MySQL分库分表原理
 https://www.jianshu.com/p/7aec260ca1a2
+
+#### 深入理解分布式事务
+http://www.codeceo.com/article/distributed-transaction.html
