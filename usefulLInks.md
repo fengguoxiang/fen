@@ -18,3 +18,5 @@ http://www.codeceo.com/article/distributed-transaction.html
 https://www.jianshu.com/p/2838890f3284
 
 Good Links nov 7 15:31 +++
+
+***************
